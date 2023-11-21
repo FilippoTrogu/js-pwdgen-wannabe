@@ -8,5 +8,5 @@ let surname = prompt('inserisci il tuo cognome');
 let color = prompt('inserisci il tuo colore preferito');
 
 //generazione password
-let password = name+surname+color+23;
-console.log(password)
+let password = name + surname + color+23;
+console.log(password);
