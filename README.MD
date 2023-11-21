@@ -16,7 +16,17 @@ P.S. Oggi come avete potuto notare, avrete due blocchi di slides (modificato)
 
 
 
+1 -  realizzare un prompt che chieda il nome all utente e assegnare il valore a una variabile
+
+2 -  realizzare un prompt che chieda il cognome all utente e assegnare il valore a una variabile
+
+3 - realizzare un prompt che chieda il colore preferito assegnare il valore a una variabile
 
 
+4 - concatenarei 3 valori contentuti nella variabili in un nuovo valore aggiungendo anche il numero 23 ed assegnarlo a una nuova variabile
+
+5 - recuperare l elemento con id string-generated 
+
+6 - di questo lemento prendere la propia innerHTML ed assegnarli il valore
 
 
